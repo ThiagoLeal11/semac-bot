@@ -5,7 +5,7 @@ from utils import read_from_file, write_on_file, calc_previous_version, calc_nex
 
 rootpath = '/home/ubuntu/Server'
 
-VS_URL = 'thiagoleal11.visualstudio.com/Semac%20Server/_git/Semac%20Server'
+VS_URL = ''
 
 
 class SemacBackend(Executor):
