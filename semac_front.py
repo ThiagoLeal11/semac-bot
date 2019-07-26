@@ -6,7 +6,7 @@ from utils import read_from_file, write_on_file, calc_previous_version, calc_nex
 rootpath = '/home/ubuntu/Site'
 serverpath = '/var/www/html/Site'
 
-VS_URL = 'thiagoleal11.visualstudio.com/Semac/_git/Semac'
+VS_URL = ''
 
 
 class SemacFrontend(Executor):
